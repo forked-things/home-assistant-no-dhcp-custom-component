@@ -1,0 +1,5 @@
+{
+  "name": "No DHCP",
+  "domains": ["dhcp"],
+  "iot_class": ["Assumed State"]
+}
