@@ -1,0 +1,7 @@
+{
+  "domain": "dhcp",
+  "name": "No DHCP",
+  "documentation": "",
+  "requirements": [],
+  "codeowners": []
+}
